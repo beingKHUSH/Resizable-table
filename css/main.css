@@ -20,6 +20,7 @@ th{
    color:white;
    text-shadow: #fa632a 2px 2px 2px;
    text-align: center;   
+   white-space: nowrap;
 }
 
 td{
@@ -164,5 +165,6 @@ ul, li {
 }
 table {
 	width: 100%;
+  table-layout: fixed;
 }
 
