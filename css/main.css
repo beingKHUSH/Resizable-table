@@ -28,6 +28,7 @@ td{
 	color:#444;
 	border-bottom:1px solid #bbb;
 	border-left:1px solid #bbb;
+  white-space: nowrap;
 }
 
 td.disabled, th.disabled{
